@@ -1,0 +1,15 @@
+c:\users\pc34\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\PC-13\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
