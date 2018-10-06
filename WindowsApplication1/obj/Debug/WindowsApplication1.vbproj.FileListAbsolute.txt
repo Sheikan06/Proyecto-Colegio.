@@ -13,3 +13,15 @@ C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\bin\Debug\Win
 C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 C:\Users\Microsoft\Desktop\Aplicación Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Desktop\Proyecto-Colegio\WindowsApplication1\obj\Debug\WindowsApplication1.Menu.resources
